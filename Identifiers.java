@@ -7,10 +7,12 @@ class Identifiers{
         System.out.println(s);
 
         byte num = Byte.MAX_VALUE;
-        System.out.println("maximum value "+num);
+        String s2 = "maximum value "+num;
+        System.out.println(s2);
         
         num = Byte.MIN_VALUE;
-        System.out.println("minnimum value "+num);
+        s2="minnimum value "+num;
+        System.out.println(s2);
 
         //data-type identifier  = 100
         // int number = 100;
