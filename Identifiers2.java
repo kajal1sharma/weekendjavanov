@@ -7,7 +7,7 @@ public class Identifiers2 {
         int firstNumber;
         // digits can be used but they can not be first char
 
-        int 1number;//wrong
+        // int 1number;//wrong
         int number1;//corrrect
         // underscore
 
@@ -17,8 +17,8 @@ public class Identifiers2 {
         int first$number;
         int $firstNumber;
 
-        int firsy*number;//other symbols cannot be used
-        int first number;//wrong
+        // int firsy*number;//other symbols cannot be used
+        // int first number;//wrong
 
         int abc2__345__$jdfgjdWRWERewc;
 
